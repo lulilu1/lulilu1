@@ -1,4 +1,3 @@
-# Projets de Lucie
+# Lulilu's World
 
-- Page sur la coupe du monde
-- Page sur le championat europeen
+- [La Coupe du Monde](pages/La Coupe du Monde.html)
